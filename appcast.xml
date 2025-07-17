@@ -38,7 +38,7 @@
             <pubDate>Mon, 14 Jul 2025 15:38:00</pubDate>
             <!-- Here update url pointing to a new release, edSignature and length from MacOS output -->
             <enclosure
-                url="https://github.com/piche-eu/piche_qtime_releases/releases/download/1.0.8%2B9-dev/QTime_1.0.8+9.zip"
+                url="https://github.com/piche-eu/piche_qtime_dev_releases/releases/download/1.0.8%2B9-dev/QTime_1.0.8+9.zip"
                 sparkle:edSignature="6OJlPxUlQkdvNSj8uCrlKRSXqXuZ1cu54GRfamnC2xAGga+WQnEq/yXpLJBU96Dgp0Q45/VwGSKKO2smrdnyDw=="
                 sparkle:os="macos"
                 length="27966600"
@@ -74,7 +74,7 @@
             <pubDate>Mon, 17 Jul 2025 10:00:00</pubDate>
             <!-- Here update url pointing to a new release, full version, dsaSignature and length from Windows output -->
             <enclosure
-                url="https://github.com/piche-eu/piche_qtime_releases/releases/download/1.0.8%2B9-dev/QTimeInstaller.exe"
+                url="https://github.com/piche-eu/piche_qtime_dev_releases/releases/download/1.0.8%2B9-dev/QTimeInstaller.exe"
                 sparkle:dsaSignature="MDwCHCGV9XbLCsqiTQi3luKlj0bcLwDWMh+IdqPqmO8CHBcoJ8AKXEAQEoI7NxroPCXFDOBrr/cJIl9KV5E="
                 sparkle:version="1.0.8+9"
                 sparkle:os="windows"
