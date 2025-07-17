@@ -1,4 +1,4 @@
-# QTIME - Releases
+# QTIME - Releases (Test Environment)
 
 The public repository, responsible for distribution artifacts for auto-update purposes to users.
 
