@@ -38,7 +38,7 @@
             <pubDate>Mon, 28 Jul 2025 10:00:00</pubDate>
             <!-- Here update url pointing to a new release, edSignature and length from MacOS output -->
             <enclosure
-                url="https://github.com/piche-eu/piche_qtime_dev_releases/releases/download/1.0.9%2B10-dev/QTime_1.0.9+10-dev.zip"
+                url="https://github.com/piche-eu/piche_qtime_dev_releases/releases/download/1.0.9%2B10-dev/QTime.1.0.9+10-dev.zip"
                 sparkle:edSignature="Mj8JkazO11TUbb5I6bTJ+figm54rCjTHBQXF0cPIJbkNSeKYQPjIaNOQF0zLYILcTCQFWZ+WV7Yi02UqyDxwDw=="
                 sparkle:os="macos"
                 length="27952359"
