@@ -37,30 +37,18 @@
                 type="application/octet-stream" />
         </item>
         <item>
-            <title>Version 1.0.12+13</title>
+            <title>Version 1.0.15+16</title>
             <description><![CDATA[
-                <h1>Release notes - 1.0.12+13</h1>
+                <h1>Release notes - 1.0.15+16</h1>
 
-                <h2>Features:</h2>
-                <ul>
-                    <li>Added floating button at the statistics screen to export data table as a CSV file, while preserving format, amount of rows and columns and sorting order.</li>
-                    <li>Added possibility to pause tracking activity for a set period of time.</li>
-                </ul>
-
-                <h2>Fixes:</h2>
-                <ul>
-                    <li>Fixed issue with "Work time" and "Desk time" not calculating correctly.</li>
-                    <li>Fixed issue with statistics showing incorrect or no data at all.</li>
-                    <li>Fixed multiple issues with applications not having correct names or not showing even with activity being present.</li>
-                    <li>Fixed issue with productive time showing over 100% productivity.</li>
-                </ul>
+                Fixed the issue with QTime occasionally crashing and stopping tracking activity.
             ]]></description>
-            <pubDate>Wen, 14 Aug 2025 10:00:00</pubDate>
+            <pubDate>Wen, 20 Aug 2025 10:00:00</pubDate>
             <!-- Here update url pointing to a new release, full version, dsaSignature and length from Windows output -->
             <enclosure
-                url="https://github.com/piche-eu/piche_qtime_dev_releases/releases/download/1.0.12%2B13-dev/QTimeInstallerDev.exe"
-                sparkle:dsaSignature="MDwCHAeyDQu+ug4kaLmD5juL1W92gUxVaGmXLRFm/tYCHDDR3uHW9db8wmKroDJ2JtTO1fijVtwBZVkXUGs="
-                sparkle:version="1.0.12+13"
+                url="https://github.com/piche-eu/piche_qtime_dev_releases/releases/download/1.0.15%2B16-dev/QTimeInstallerDev.exe"
+                sparkle:dsaSignature="MDwCHC13Xb7TOnhYzMPVv6PoxP4L3QF5bLTzEVmNKg0CHC15N6MMyHpYraZ2AqLa7GCu1eO8op+RhVcxW2o="
+                sparkle:version="1.0.15+16"
                 sparkle:os="windows"
                 length="0"
                 type="application/octet-stream" />
