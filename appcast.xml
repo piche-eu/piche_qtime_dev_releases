@@ -5,35 +5,38 @@
         <description>Most recent updates to QTime</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.12+13</title>
+            <title>Version 1.0.16+17</title>
             <!-- sparkle:version is for build number, where sparkle:shortVersionString is
             responsible for build name -->
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
             <description><![CDATA[
-                <h1>Release notes - 1.0.12+13</h1>
+                <h1>Release notes - 1.0.16+17</h1>
 
                 <h2>Features:</h2>
                 <ul>
-                    <li>Added floating button at the statistics screen to export data table as a CSV file, while preserving format, amount of rows and columns and sorting order.</li>
-                    <li>Added possibility to pause tracking activity for a set period of time.</li>
+                    <li>Added playback speed controller to image playback</li>
+                    <li>Added "X" to search inquiry to clear field</li>
+                    <li>Added hours and minutes symbols to the QTime dashboard</li>
                 </ul>
 
                 <h2>Fixes:</h2>
                 <ul>
-                    <li>Fixed issue with "Work time" and "Desk time" not calculating correctly.</li>
-                    <li>Fixed issue with statistics showing incorrect or no data at all.</li>
-                    <li>Fixed multiple issues with applications not having correct names or not showing even with activity being present.</li>
-                    <li>Fixed issue with productive time showing over 100% productivity.</li>
+                    <li>Fixed "Download all screenshots" button showing up if there is no screenshots</li>
+                    <li>Fixed incorrect date format in calendar</li>
+                    <li>Fixed letters getting cut off in statistics table</li>
+                    <li>Fixed autostart button not working properly</li>
+                    <li>Fixed application not respecting autostart rules</li>
+                    <li>Fixed application crashing in sleep mode</li>
                 </ul>
             ]]></description>
-            <pubDate>Wen, 14 Aug 2025 10:00:00</pubDate>
+            <pubDate>Wen, 2 Sep 2025 10:00:00</pubDate>
             <!-- Here update url pointing to a new release, edSignature and length from MacOS output -->
             <enclosure
-                url="https://github.com/piche-eu/piche_qtime_dev_releases/releases/download/1.0.12%2B13-dev/QTime_1.0.12+13-test.zip"
-                sparkle:edSignature="FPaZR1XSlUmy5YiJMi3iLISW/qv7WUnui6fRKu95awEHwqWk0jA9pouQ+zRuhAo5vtEFdZo/Jx0808KD7iOSBw=="
+                url="https://github.com/piche-eu/piche_qtime_dev_releases/releases/download/1.0.16%2B17-dev/QTime_1.0.16+17-test.zip"
+                sparkle:edSignature="+7Ld44J7i8hdC5FkeIjCvo8Q3DHvuKe7HuKkSeowJly89jg+Bn6CNuYYEY2oRKSZoPAu0o3UiymhWOGVCXRbBQ=="
                 sparkle:os="macos"
-                length="27996194"
+                length="28132858"
                 type="application/octet-stream" />
         </item>
         <item>
